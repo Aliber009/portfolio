@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+.debug{
+  border: 1px solid palevioletred;
+}
+.debug >*{
+  border: 1px solid rgb(85, 239, 50);
+}
+.debug >*>*{
+  border: 1px solid rgb(97, 27, 250);
+}
